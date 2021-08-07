@@ -1,2 +1,1 @@
-# Simon
- 
+# Simon - Un jeu pour arduino
